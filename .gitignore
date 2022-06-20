@@ -29,3 +29,11 @@
 /contrib/vstudio/vc14/x64
 /contrib/vstudio/vc14/x86
 *.user
+*.obj
+*.exe
+*.pdb
+*.gz
+*.exp
+*.lib
+*.dll
+*.res
