@@ -28,3 +28,4 @@
 /contrib/vstudio/vc14/.vs/zlibvc/FileContentIndex
 /contrib/vstudio/vc14/x64
 /contrib/vstudio/vc14/x86
+*.user
