@@ -24,3 +24,7 @@
 /configure.log
 
 .DS_Store
+/contrib/vstudio/vc14/.vs/zlibvc/v17
+/contrib/vstudio/vc14/.vs/zlibvc/FileContentIndex
+/contrib/vstudio/vc14/x64
+/contrib/vstudio/vc14/x86
