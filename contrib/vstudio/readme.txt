@@ -14,31 +14,11 @@ More information can be found at this site.
 
 
 
-Build instructions for Visual Studio 2008 (32 bits or 64 bits)
---------------------------------------------------------------
-- Decompress current zlib, including all contrib/* files
-- Open contrib\vstudio\vc9\zlibvc.sln with Microsoft Visual C++ 2008
-- Or run: vcbuild /rebuild contrib\vstudio\vc9\zlibvc.sln "Release|Win32"
 
-Build instructions for Visual Studio 2010 (32 bits or 64 bits)
+Build instructions for Visual Studio 2022 (32 bits or 64 bits)
 --------------------------------------------------------------
 - Decompress current zlib, including all contrib/* files
-- Open contrib\vstudio\vc10\zlibvc.sln with Microsoft Visual C++ 2010
-
-Build instructions for Visual Studio 2012 (32 bits or 64 bits)
---------------------------------------------------------------
-- Decompress current zlib, including all contrib/* files
-- Open contrib\vstudio\vc11\zlibvc.sln with Microsoft Visual C++ 2012
-
-Build instructions for Visual Studio 2013 (32 bits or 64 bits)
---------------------------------------------------------------
-- Decompress current zlib, including all contrib/* files
-- Open contrib\vstudio\vc12\zlibvc.sln with Microsoft Visual C++ 2013
-
-Build instructions for Visual Studio 2015 (32 bits or 64 bits)
---------------------------------------------------------------
-- Decompress current zlib, including all contrib/* files
-- Open contrib\vstudio\vc14\zlibvc.sln with Microsoft Visual C++ 2015
+- Open contrib\vstudio\vc14\zlibvc.sln with Microsoft Visual C++ 2022
 
 
 Important
